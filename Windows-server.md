@@ -1,4 +1,4 @@
- Instalacion de windows server 2019 en VMware
+width="500" Instalacion de windows server 2019 en VMware
 
  
 1 - Creacion del disco, en este caso configuramos un disco duro primario de 30 GB
